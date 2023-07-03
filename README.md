@@ -22,22 +22,28 @@
 
 ## Overview
 
-<img src="#" width="350px">
-<img src="#" width="350px">
+<img src="./src/assets/screenshots/pipes-screenshot.png" width="350px">
 
 With this project I've learned/improved:
 
-- Pipes
+- Using Common Pipes
+- Creating Custom Pipes
+- Custom Arguments
 
 ### Built With
 
 - This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.1.
 - Deploy with [Vercel CLI](https://vercel.com) version 30.2.3.
-- [Bulma](https://bulma.io/): the modern CSS framework.
+- [Bootstrap](https://www.npmjs.com/package/bootstrap)
 
 ## Features
 
-- ...
+- Transforms text to title case.
+- Formats a date value.
+- Transforms a number to a currency string, formatted currency code, such as PLN.
+- Sets digit representation.
+- Converts a value into its JSON-format representation.
+- Convert miles to: km || m || cm.
 
 ## Acknowledgements
 
